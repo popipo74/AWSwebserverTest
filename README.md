@@ -23,7 +23,7 @@ The script will:
 
 You can customize the HTML content by editing the `index.html` file in the `/var/www/html/` directory.
 
-After running the script, your static web server will be accessible at [http://localhost](http://localhost).
+After running the script, your static web server will be accessible at AWS public address.
 
 Feel free to explore and modify the script to suit your needs.
 
